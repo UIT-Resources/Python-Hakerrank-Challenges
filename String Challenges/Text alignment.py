@@ -1,3 +1,7 @@
+# Link : https://www.hackerrank.com/challenges/text-alignment/problem
+# Solve by :
+# + strVar.center(), strVar.ljust(), strVar.rjust()
+
 if __name__ == '__main__':
     #Replace all ______ with rjust, ljust or center.
 

@@ -1,3 +1,6 @@
+# Link Challenge : https://www.hackerrank.com/challenges/python-string-formatting/problem
+# Solve by : "...".format()
+
 def print_formatted(number):
     width = len(bin(number))-1
     for i in range(1,number+1):

@@ -1,3 +1,6 @@
+# Link : https://www.hackerrank.com/challenges/string-validators/problem
+# Solve by : strVar.isalnum() ; .isalpha() ; .isdigit() ; .islower() ; .isupper()
+
 if __name__ == '__main__':
     s = input()
     hasAnyAlnum = False
